@@ -1,0 +1,105 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+.main-div{margin-top: 40px;
+margin-left: 100px;}
+
+.nav-item{margin-left: 30px;
+font-size: 15px;
+color: black;}
+
+.nav-items{display: flex;
+justify-content: center;
+position: relative;
+bottom: 70px;
+z-index: 1;
+color: #23c57b;
+font-family: Roboto;}
+
+.signin-btn{
+position: relative;
+left: 900px;
+bottom: 115px;
+z-index: 1;
+border: 0;
+border-radius: 10px;
+background: linear-gradient(90deg,#965cf2,#ff8adc);
+color: white;
+padding: 0px 10px 0px 10px;
+font-family: Roboto;}
+
+
+h1{font-size: 50px;
+color: #3e4794;
+
+font-family: Roboto;
+}
+
+h4{margin-bottom: 100px;
+margin-left: 10px;
+color: #a6a8bb;
+font-family: Roboto;}
+
+
+.back{position: relative;
+left: 370px;
+bottom: 800px;}
+
+
+.intro{position: relative;
+left: 540px;
+bottom: 1490px;
+z-index: 1;
+height: 700px;
+}
+
+.learn-more-btn{
+	position: absolute;
+border: 0;
+border-radius: 50px;
+padding: 10px 20px;
+color: white;
+font-size: 25px;
+background: linear-gradient(90deg,#965cf2,#ff8adc);
+margin-top: -20px;
+font-family: Roboto;
+margin-left: 30px;}
+
+.backcover
+{
+	position: absolute;
+	margin-top: -560px;
+	height: 100%;
+	z-index: -1;
+	margin-left: 450px;
+}
+
+.intro-img
+{
+	position: absolute;
+	width: 60%;
+	height: 70%;
+	margin-top: -380px;
+	margin-left: 350px;
+}
+.vector-img
+{
+	position: absolute;
+	margin-top: -180px;
+	margin-left: 480px;
+	height: 80px;
+	width: 80px;
+}
+.vector-dot
+{
+	position: absolute;
+	margin-top: -180px;
+	margin-left: 520px;
+	height: ;
+}
+.left-section
+{
+	width: 30%;
+}
